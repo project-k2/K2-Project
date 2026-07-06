@@ -1,0 +1,3 @@
+## Latest K2 Project Configuration File
+
+version = "0.0.1"
